@@ -1,7 +1,7 @@
 title: "Project Documentation"
 description: "Documentation for the project"
 baseurl: "/documentation"
-theme: jekyll-theme
+theme: minimal-mistakes-jekyll
 
 # Build settings
 markdown: kramdown
